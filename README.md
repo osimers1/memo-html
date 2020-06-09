@@ -1,4 +1,4 @@
 Mémo html
 =========
 
-![image-html](html-image.png)
+![image-html 40% center](html-image.png)
